@@ -19,8 +19,10 @@ build/
 *.sqlite3
 *.log
 
-# VS Code
-.vscode/
+# IDE
+.idea/
+*.iml
 
-# MacOS
+# OS
 .DS_Store
+Thumbs.db
